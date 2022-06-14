@@ -1,3 +1,4 @@
+added new content
 AWSTemplateFormatVersion: 2010-09-09
 Description: Build a ec2 stack with CloudFormation
 
